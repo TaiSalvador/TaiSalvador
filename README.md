@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Olá! Meu nome é Tainá, e estou iniciando minha jornada no mundo a programação. Atualmente, estou cursanndo um técnico em Desenvolvimento de Sistema
+
+🚀 Buscando aprender e crescer na área de tecnologia
+📌Sempre aberta a novas oportunidades e desafios
+
